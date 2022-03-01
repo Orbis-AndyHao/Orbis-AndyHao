@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Orbis-AndyHao
+- 👋 Hi, I’m Andy Hao
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Quantum Computing
 - 💞️ I’m looking to collaborate on making world a better place
